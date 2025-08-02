@@ -5,3 +5,4 @@
 ![5](https://github.com/user-attachments/assets/02403dbd-8777-49e2-b0c1-e7e5b0823169)
 ![6](https://github.com/user-attachments/assets/5214ce43-f6d3-4911-acdd-db860637e871)
 ?raw=true
+og:image=<img width="600" height="428" alt="Снимок экрана 2025-08-02 214148" src="https://github.com/user-attachments/assets/3a4be184-5b64-4e96-b0e6-7faf63595556" />
