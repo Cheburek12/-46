@@ -5,4 +5,8 @@
 ![5](https://github.com/user-attachments/assets/02403dbd-8777-49e2-b0c1-e7e5b0823169)
 ![6](https://github.com/user-attachments/assets/5214ce43-f6d3-4911-acdd-db860637e871)
 ?raw=true
-<meta property="og:image" content=<img width="600" height="428" alt="Снимок экрана 2025-08-02 214148" src="https://github.com/user-attachments/assets/a1925eb8-ca69-497f-90fd-5ba5f352331c" />
+<meta property="og:title" content="Я стала младшей невесткой главных героев в захудалом обратном гареме | Глава 46">
+<meta property="og:description" content="Команда неспящих по ночам, которая изо всех сил старается найти стоящий проект, дабы вложить в него душу и подарить вам^^
+Если вдруг захочешь к нам присоединиться, пиши в личку группы ВК
+">
+<meta property="og:image" content="[https://ваш-сайт](https://t.me/insomnia252).github.io/cover.jpg">
